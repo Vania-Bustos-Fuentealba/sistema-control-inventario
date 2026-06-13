@@ -134,3 +134,12 @@ http://work.smarchal.com/twbscolor/
 a {
 	color: #3c763d;
 }
+
+.navbar-brand {
+    font-weight: bold;
+    color: #2c3e50 !important;
+}
+
+.navbar-default {
+    border-radius: 0;
+}
