@@ -13,7 +13,7 @@
 
     <!-- ENCABEZADO -->
     <header>
-        <h1>Mi Tienda</h1>
+        <h1>Online-library</h1>
     </header>
 
     <!-- NAVEGACIÓN -->
@@ -31,7 +31,7 @@
 
         <!-- BANNER PRINCIPAL -->
         <section class="hero">
-            <h2>Bienvenidos a nuestra tienda</h2>
+            <h2>Bienvenidos a Online-library</h2>
 
             <p>
                 Descubre nuestros productos y encuentra
@@ -56,7 +56,7 @@
                         Imagen
                     </div>
 
-                    <h3>Producto 1</h3>
+                    <h3>Alas de sangre</h3>
 
                     <p>$9.990</p>
 
@@ -71,7 +71,7 @@
                         Imagen
                     </div>
 
-                    <h3>Producto 2</h3>
+                    <h3>Carrie</h3>
 
                     <p>$14.990</p>
 
@@ -86,7 +86,7 @@
                         Imagen
                     </div>
 
-                    <h3>Producto 3</h3>
+                    <h3>Habitos atomicos</h3>
 
                     <p>$19.990</p>
 
@@ -104,7 +104,7 @@
 
     <!-- PIE DE PÁGINA -->
     <footer>
-        <p>&copy; 2026 Mi Tienda - Todos los derechos reservados</p>
+        <p>&copy; 2026 Online-library - Todos los derechos reservados</p>
     </footer>
 
 </body>
