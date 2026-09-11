@@ -53,12 +53,12 @@
 
                 <article class="producto">
                     <div class="imagen-producto">
-                        Imagen
+                        <img src="imagenes/Alas_de_sangre.webp" alt="Portada de Alas de sangre">
                     </div>
 
                     <h3>Alas de sangre</h3>
 
-                    <p>$9.990</p>
+                    <p>$29.990</p>
 
                     <a href="#" class="boton">
                         Ver producto
@@ -68,7 +68,7 @@
 
                 <article class="producto">
                     <div class="imagen-producto">
-                        Imagen
+                        <img src="imagenes/Carrie.jpg" alt="Portada de Carrie">
                     </div>
 
                     <h3>Carrie</h3>
@@ -83,7 +83,7 @@
 
                 <article class="producto">
                     <div class="imagen-producto">
-                        Imagen
+                        <img src="imagenes/Habitos_atomicos.webp" alt="Portada de Habitos atomicos">
                     </div>
 
                     <h3>Habitos atomicos</h3>
