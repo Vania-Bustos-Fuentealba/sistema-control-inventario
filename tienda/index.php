@@ -57,7 +57,9 @@
                     </div>
 
                     <h3>Alas de sangre</h3>
-
+                    <p class="autor">
+                        Rebecca Yarros
+                    </p>
                     <p>$29.990</p>
 
                     <a href="#" class="boton">
@@ -72,6 +74,9 @@
                     </div>
 
                     <h3>Carrie</h3>
+                    <p class="autor">
+                        Stephen King
+                    </p>
 
                     <p>$14.990</p>
 
@@ -87,7 +92,9 @@
                     </div>
 
                     <h3>Habitos atomicos</h3>
-
+                    <p class="autor">
+                        James Clear
+                    </p>
                     <p>$19.990</p>
 
                     <a href="#" class="boton">
